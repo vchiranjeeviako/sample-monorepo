@@ -1,1 +1,0 @@
-{"version":3,"file":"test2.test.js","sourceRoot":"","sources":["../../../../src/test/sub/folder/test2.test.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,EAAE,EAAE,MAAM,WAAW,CAAC;AACzC,OAAO,MAAM,MAAM,oBAAoB,CAAC;AAExC,QAAQ,CAAC,iBAAiB,EAAE,GAAG,EAAE;IAC/B,EAAE,CAAC,cAAc,EAAE,GAAG,EAAE;QACtB,MAAM,CAAC,EAAE,CAAC,IAAI,CAAC,CAAC;IAClB,CAAC,CAAC,CAAC;AACL,CAAC,CAAC,CAAC"}
